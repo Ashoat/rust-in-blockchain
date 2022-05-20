@@ -60,6 +60,9 @@ Casper Labs | Remote
 Cloud-On-Chain | Moscow
 - [CTO Cofounder — Rust Core Blockchain Engineer](https://itegmark.substack.com/p/cto-cofounder-rust-core-blockchain)
 
+Comm | New York City
+- [Software Engineer](https://jobs.lever.co/comm-app/8008a38a-d616-4f48-8a63-e47c02a0c051)
+
 DEX Labs | Remote
 - [Rust Engineer](https://dex-labs.breezy.hr/p/fea339739adb-rust-engineer)
 
